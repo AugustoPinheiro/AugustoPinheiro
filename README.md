@@ -1,4 +1,4 @@
-<h3><strong>Hi there, I'm Augusto Pinheiro</strong></h3>
+<h3><strong>Hi there, I'm Augusto Pinheiro 👋🏾</strong></h3>
 
 ![Linkedin Badge](https://img.shields.io/badge/-Augusto%20Pinheiro-75fe66?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/augusto-pinheiro-173896114/)
 ![Gmail Badge](https://img.shields.io/badge/-augusto@flukeoperadora.com.br-75fe66?style=flat-square&logo=Gmail&logoColor=white&link=mailto:augusto@flukeoperadora.com.br](mailto:augusto@flukeoperadora.com.br)mailto:augusto@flukeoperadora.com.br)
