@@ -5,7 +5,7 @@
 <p>
 - 💚  I wake up every day fighting for a fairer market. For me, technology is not just my job, it is my passion! 😊.<br>
 - 🖥️  New technology enthusiast that loves React and Node.js. My hobby is learn new technologies and use them to help people.<br>
-- 💼️  Currently Founder & CTO at <a href="https://github.com/fluketmc"><b>@fluketmc</b></a> <img src="https://github.com/gstvds/gstvds/blob/master/assets/developer.gif?raw=true" width="30px"> <br>
+- 💼️  Founder & CTO at <a href="https://github.com/fluketmc"><b>@fluketmc</b></a> <img src="https://github.com/gstvds/gstvds/blob/master/assets/developer.gif?raw=true" width="30px"> <br>
 - ⭐  My Goal is to learn new technologies everytime.<br>
 - 📫  How to reach me: augusto@flukeoperadora.com.br
 
