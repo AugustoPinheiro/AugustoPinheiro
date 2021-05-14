@@ -29,8 +29,3 @@
 
 </p>
 </p>
-
-<h3><strong>Spotify Playing</strong></h3>
-
-[![Spotify](https://spotify-now-playing-delta.vercel.app/api/spotify)](https://open.spotify.com/user/qgdrgkgrafjwist1tl075idzs)
-
