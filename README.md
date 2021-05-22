@@ -5,7 +5,7 @@
 <p>
 - 💚  I wake up every day fighting for a fairer market. For me, technology is not just my job, it is my passion! 😊.<br>
 - 🖥️  New technology enthusiast that loves React and Node.js. My hobby is learn new technologies and use them to help people.<br>
-- 💼️  Founder & CTO at <a href="https://github.com/fluketmc"><b>@fluketmc</b></a> <img src="https://github.com/gstvds/gstvds/blob/master/assets/developer.gif?raw=true" width="30px"> <br>
+- 💼️  Founder & CTO at <a href="https://github.com/fluketmc"><b>@fluketmc</b></a> <br>
 - ⭐  My Goal is to learn new technologies everytime.<br>
 - 📫  How to reach me: augusto@flukeoperadora.com.br
 
@@ -24,8 +24,5 @@
 <img style="margin-right: 10px;" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" width="30px">
 <img style="margin-right: 10px;" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" width="30px">
 <img style="margin-right: 10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png  " width="30px">
-  
-
-
 </p>
 </p>
