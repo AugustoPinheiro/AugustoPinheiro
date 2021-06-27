@@ -26,3 +26,5 @@
 <img style="margin-right: 10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png  " width="30px">
 </p>
 </p>
+
+[![Spotify](https://spotify-now-playing-delta.vercel.app/api/spotify)](https://open.spotify.com/user/qgdrgkgrafjwist1tl075idzs)
