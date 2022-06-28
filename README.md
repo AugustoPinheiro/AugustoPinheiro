@@ -13,6 +13,9 @@ I'm an enthusiast of new technologies and business models in telecommunications 
 - ⭐  My Goal is to learn new technologies every day..<br>
 - 📫  How to reach me: augusto@flukeoperadora.com.br
 
+<a href="https://www.buymeacoffee.com/augustopinheiro"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=augustopinheiro&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
+
+
 </p>
 <p>
 <h3><strong>Languages and tools</strong></h3>
