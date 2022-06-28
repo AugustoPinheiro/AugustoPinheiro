@@ -10,7 +10,7 @@ I'm an enthusiast of new technologies and business models in telecommunications 
 - 💚  I wake up every day fighting for a fairer market. For me, technology is not just my job, it is my passion! 😊.<br>
 - 🖥️  New technology enthusiast that loves React and Node.js. My hobby is learn new technologies and use them to help people.<br>
 - 💼️  Founder & CTO at <a href="https://github.com/fluketmc"><b>@fluketmc</b></a> <br>
-- ⭐  My Goal is to learn new technologies everytime.<br>
+- ⭐  My Goal is to learn new technologies every day..<br>
 - 📫  How to reach me: augusto@flukeoperadora.com.br
 
 </p>
