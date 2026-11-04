@@ -3,7 +3,7 @@ Founder and CTO at [Fluke](https://flu.ke), a digital mobile operator in Brazil.
 Self-taught. I started writing code at 12, and most of my time still goes to the product: what a customer uses, and the systems the company runs on. I grew up on the outskirts of Brazil.
 > Good people make good companies. Good companies are worth more than big ones.
 ## Now
-**[Fluke](https://flu.ke)**, since 2018, in São Carlos. We rent voice and data capacity from the large carriers and sell a simpler, cheaper mobile line. It started with companies that needed one or two numbers. [Forbes](https://forbes.com.br/under-30/2025/business-industria-u30-2025/marcos-oliveira-jr-augusto-pinheiro-e-vinicius-akio/) reported the largest contract at 60,000 lines. It is my favorite company in this solar system.
+**[Fluke](https://flu.ke)**, since 2018. We rent voice and data capacity from the large carriers and sell a simpler, cheaper mobile line. It started with companies that needed one or two numbers. [Forbes](https://forbes.com.br/under-30/2025/business-industria-u30-2025/marcos-oliveira-jr-augusto-pinheiro-e-vinicius-akio/) reported the largest contract at 60,000 lines. It is my favorite company in this solar system.
 **[Hasos](https://hasos.com.br)** is calls from your own WhatsApp number: a dialer in the browser, recordings, and an API.
 I get up every day to fight for a fairer market. Telecom was a concrete place to do it.
 ## Earlier
@@ -23,8 +23,5 @@ TypeScript, React, React Native, and Node.js. Google Cloud and Kubernetes when t
 - [LinkedIn](https://www.linkedin.com/in/augusto-pinheiro-173896114)
 - [eu@augustopinheiro.com.br](mailto:eu@augustopinheiro.com.br)
 - [Short bio, for press](https://www.augustopinheiro.com.br/about)
-São Carlos, Brazil.
-- [LinkedIn](https://www.linkedin.com/in/augusto-pinheiro-173896114)
-- [eu@augustopinheiro.com.br](mailto:eu@augustopinheiro.com.br)
-- [Short bio, for press](https://www.augustopinheiro.com.br/about)
 São Paulo, Brazil.
+
